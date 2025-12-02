@@ -29,26 +29,21 @@ Foram criados gráficos concisos para cada métrica principal:
 
 ---
 
-## 💡 Conclusão e Recomendação
+### 💡 Recomendação Final: Vender a Loja 4
 
-| Métrica | Loja com Pior Desempenho | Loja com Melhor Desempenho |
-| :--- | :--- | :--- |
-| **Faturamento Total** | **Loja 4** (Menor Receita) | Loja 1 (Maior Receita) |
-| **Média de Avaliação** | **Loja 1** (3.98 - Pior Satisfação) | Loja 3 (4.05 - Melhor Satisfação) |
-| **Frete Médio** | Loja 3 (Maior Custo) | Loja 1 (Menor Custo) |
-
-### Recomendação: Vender a **Loja 4**
-
-Embora a Loja 1 tenha a pior avaliação de clientes (o que exige atenção imediata para o serviço), a **Loja 4** é a loja com **menor faturamento total** e, portanto, o ativo com menor contribuição para a receita da rede.
-
-**Justificativa:** A venda da Loja 4 permite ao Sr. João:
-* Eliminar o ativo menos produtivo em termos de receita.
-* Concentrar o capital de investimento nas outras lojas (especialmente na Loja 1 para resolver o problema de satisfação) e no novo empreendimento.
+A Loja 4 apresenta o pior desempenho nas métricas mais críticas:
+* Menor Receita: A Loja 4 gera o menor volume de faturamento total, indicando a menor contribuição para a receita consolidada da Alura Store.
+* Satisfação: Possui uma das menores médias de avaliação, sugerindo problemas na experiência do cliente ou qualidade de entrega/produto.
+Vender a Loja 4 permite ao Sr. João eliminar o ativo de menor performance em termos de receita e, provavelmente, o de maior risco em termos de satisfação. O capital obtido da venda pode ser investido no novo empreendimento ou nas outras três lojas mais eficientes.
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-* `Alura_Store_Analise.ipynb`: Notebook Jupyter contendo todas as etapas da análise, limpeza de dados, cálculos e geração de gráficos.
+* `Desafio_Alura_Store.ipynb`: Notebook Colab contendo todas as etapas da análise, limpeza de dados, cálculos e geração de gráficos.
 * `README.md`: Este arquivo.
-* `/dados`: Diretório com o dataset original de vendas (assumindo que o arquivo de dados está aqui).
+* `/dados`:
+(https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_1.csv)
+(https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_2.csv)
+(https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_3.csv)
+(https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science/refs/heads/main/base-de-dados-challenge-1/loja_4.csv)
